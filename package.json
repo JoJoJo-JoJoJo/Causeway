@@ -1,5 +1,6 @@
 {
   "name": "alevel-cs-project",
+  "author": "Jonah T.",
   "private": true,
   "scripts": {
     "build": "turbo run build",
